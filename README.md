@@ -3,6 +3,7 @@
 <div align="center">
   <img src="VD-NeRF.png" width="800"/>
 </div>
+
 ## Comparison Results
 <div align="center">
     <img src="visual_results.jpg"/>
